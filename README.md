@@ -1,4 +1,4 @@
-SOPO
+SPAC
 
 As social media is not just a platform of communication but also holds a mass collection data which could be any image, article, news, memes etc.. which is shared all across the world. The problem exists here is that, if something is shared across the social media it, the users can’t find whether the message being conveyed through the post is authentic or not, most of the time it is found that the news spread across the social media is a fake or manipulated as recently seen after US 2020 elections, which lead riot at the capitol. Often fake news and manipulated media leads to several losses to an individual or a group.
 
