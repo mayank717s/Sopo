@@ -9,3 +9,6 @@ Tools used for project include IDE's such as Android Studio and Microsoft’s VS
 The resultant Social Media Post Authenticity Checker application which is developed will be useful in finding out the source of information represented in the social media post on social media websites. It’s User Interface is quite easy to use that even a person who is not fluent with technology can use it.
 
 In the we would like to say our will help the end user and the society to verify the sources of the posts that are present on the internet and various social media websites like Facebook, Instagram and Twitter. It will help the society to move forward in a positive way and will also help in reducing rumours and panic around in the society caused by such fake and morphed social media posts and will also the law enforcement and well as the social media company to catch or suspends those accounts who are spreading rumours on a regular basis.
+
+
+https://drive.google.com/file/d/1BqC6kvoWjI-yFTNgORoHZcqTClba-ZUI/view?usp=sharing
